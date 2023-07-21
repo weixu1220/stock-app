@@ -8,6 +8,7 @@ Dashboard will display most active stocks from https://financialmodelingprep.com
 ![Dashboard](https://github.com/weixu1220/stock-app/blob/main/images/Img1.png)
 ### Stocks
     Clicking on stocks listed in dashboard or mystock will display more data on that stock.
-    choose to Follow the stock will add the stock to my stock list. unfollow will rove the stock from the my stock list.
+    Choose to Follow the stock will add the stock to my stock list.
+    Unfollow will remove the stock from the my stock list.
 ![Stock data](https://github.com/weixu1220/stock-app/blob/main/images/Img2.png)
 ![My Stocks](https://github.com/weixu1220/stock-app/blob/main/images/Img3.png)
